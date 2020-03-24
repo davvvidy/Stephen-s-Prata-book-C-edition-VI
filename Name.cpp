@@ -7,6 +7,7 @@ int main()
     cout << "What's ur name?" << endl;
     cin  >> name;
     cout << "Author's name is " << name << endl;
+    //system("pause");
     return 0;
 }
 
