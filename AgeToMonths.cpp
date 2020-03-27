@@ -7,6 +7,6 @@ int main()
     int age;
     cin >> age;
     cout << "Your age in months is: " << age*12 << endl;
-    system("pause");
+    //system("pause");
     return 0;
 }
