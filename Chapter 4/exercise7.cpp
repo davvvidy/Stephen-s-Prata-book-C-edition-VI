@@ -20,6 +20,6 @@ int main()
     cin >> pizza.weight;
 
     cout << "Pizza informations: " << pizza.name << " " << pizza.diameter << "cm " <<  pizza.weight << "g\n";
-    system("pause");
+    //system("pause");
     return 0;
 }

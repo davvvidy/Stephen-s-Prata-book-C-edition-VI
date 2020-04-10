@@ -16,7 +16,7 @@ int main()
     cin >>  sprintTime[2];
     float averageTime = averageTimeCounter(sprintTime[0], sprintTime[1], sprintTime[2]);
     cout << averageTime << " seconds, this is your average time on 100m\n";
-    system("pause");
+    //system("pause");
     return 0;
 }
 
