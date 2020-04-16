@@ -12,7 +12,6 @@ int main()
     cout << "How many cars do you want to enter? ";
     cin >> carsNumber;
     car * cars = new car[carsNumber];
-    cars[0] = {0,0};
     for(int i = 0; i < carsNumber; i++)
     {
         cout << "Car #" << i+1 << endl;
