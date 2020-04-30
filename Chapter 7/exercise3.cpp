@@ -23,7 +23,7 @@ int main()
     cin >> userBox.length;
     boxVolumes(&userBox);
     showBoxData(userBox);
-    system("pause");
+    //system("pause");
     return 0;
 }
 
